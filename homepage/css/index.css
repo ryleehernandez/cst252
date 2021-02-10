@@ -1,0 +1,71 @@
+body  {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: #dfeeef;
+    padding: 50px;
+    font-size: 120%;
+    text-transform: lowercase;
+    color: #efb44a;
+    border-style: dotted dashed solid double;
+    width: 90%;
+
+
+
+}
+div#content {
+    padding: 25px;
+    background-color: #f5fff6;
+    height: 200vh;
+    width: 160vh;
+    border-style: dotted dashed solid double;
+
+
+}
+
+h2, h3 {
+    font-family: "Courier New", Courier, monospace;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    color: #1a5475;
+}
+
+h1 {
+    font-family: 'Barriecito';
+    text-transform: uppercase;
+    color: #1a5475;
+
+
+}
+
+div#img {
+  height: 400px;
+  width: auto;
+  padding-left: 350px;
+  padding-top: 100px;
+  border-style: solid;
+  height: auto;
+  width: auto;
+
+
+}
+
+p {
+    color: #333333;
+    font-family: 'Barriecito';
+    text-transform: none;
+    font-size: 23px;
+
+
+.content {
+  margin-top: 50px
+
+
+}
+
+a {
+    text-decoration: underline;
+    color: #000000;
+
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
