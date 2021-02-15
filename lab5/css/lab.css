@@ -1,0 +1,55 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: #dfeeef;
+    padding: 50px;
+    font-size: 120%;
+    text-transform: lowercase;
+    color: #efb44a;
+    border-style: dotted dashed solid double;
+    width: 90%;
+
+
+}
+
+h2, h3 {
+    font-family: "Courier New", Courier, monospace;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    color: #1a5475;
+}
+
+h1 {
+    font-family: 'Barriecito';
+    text-transform: uppercase;
+    color: #1a5475;
+
+
+}
+p {
+    color: #333333;
+    font-family: 'Barriecito';
+    text-transform: none;
+    font-size: 23px;
+}
+
+div#pic {
+    padding-top: 0px;
+    padding-left: 500px;
+    float: right;
+
+
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: underline;
+    color: #000000;
+
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
