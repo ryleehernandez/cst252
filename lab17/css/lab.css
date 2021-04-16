@@ -31,12 +31,37 @@ p {
     text-transform: none;
     font-size: 23px;
 }
+div#lab {
 
-div#pic {
-    padding-top: 0px;
-    padding-left: 500px;
-    float: right;
 
+}
+#challenge-button1 {
+  background-color: #1a5475;
+
+}
+  #challenge-button1.newcolor1 {
+    background-color: #A9E7F5;
+
+}
+
+#challenge-button2 {
+  background-color: #1a5475;
+}
+
+#challenge-button2.newcolor2 {
+  background-color: #FFBB6E;
+
+
+}
+
+#challenge-button3 {
+  background-color: #1a5475;
+
+
+}
+
+#challenge-button3.newcolor3 {
+  background-color: #976EFF;
 
 }
 
